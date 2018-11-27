@@ -8,6 +8,7 @@ This is the backend for a meal planning and grocery shopping application.
 * Node.js
 * Express
 * MySQL
+* TypeORM
 
 
 The base API was created using my custom Yeoman generator (https://github.com/a951racer/generator-express-rest-api-orm) and the config file one directory up.
